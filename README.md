@@ -16,7 +16,7 @@ https://sochikenny.github.io/formValidation/
 Justin Marchi, Ikenna Nwajagu, and Andrew Kandiew
 ```
 
-Please visit <a href = "https://project3-business-idea-forum.herokuapp.com/"> here </a>
+Visit our <a href = "https://project3-business-idea-forum.herokuapp.com/"> app </a>
 
 
 ### Description
